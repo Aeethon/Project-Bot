@@ -1,0 +1,23 @@
+{
+    "token": "",
+    "debug": true,
+    "prefix": "$",
+
+    "avisosChannelId": "id do bot",
+    "boasVindasChannelId": "id do bot",
+
+    "permissions":{
+        "!aviso":[
+            {
+                "type": "role",
+                "value": "id do bot"
+            }
+        ],
+        "!clear":[
+            {
+                "type": "permission",
+                "value": "ADMINISTRATOR"
+            }
+        ]
+    }
+}

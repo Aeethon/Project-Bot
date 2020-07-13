@@ -1,0 +1,16 @@
+{
+    "name": "nome do projeto",
+    "version": "1.0.0",
+    "description": "",
+    "main": "core.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon core"
+    },
+    "author": "aethon",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^12.1.1",
+        "nodemon": "^2.0.2"
+    }
+}

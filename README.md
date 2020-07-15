@@ -16,7 +16,7 @@ Um Projeto pequeno de um Bot De Discord [discord.js](https://discord.js.org).
 Para baixar e instalar o projeto você precisa ter o [node](https://nodejs.org/en/), npm e git instalado.
 ```bash
 # Clone/Baixe o projeto
-$ git clone https://github.com/GumpFlash/tutorial-discord-bot.git
+$ git clone https://github.com/Aeethon/Project-Bot
 
 # Entre na pasta baixada
 $ cd tutorial-discord-bot

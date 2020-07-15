@@ -8,9 +8,6 @@
 <a alt="Servidor do Discord">
     <a href="https://discord.gg/vSRbKxY"><img src="https://discordapp.com/api/guilds/330547455273992202/embed.png" alt="Servidor do Discord" /></a>
 </a>
-<a>
-    <img src="https://img.shields.io/twitch/status/gumpflash?color=%23c9459b">
-</a>
 </p>
 
 Um Projeto pequeno de um Bot De Discord [discord.js](https://discord.js.org).

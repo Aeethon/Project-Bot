@@ -19,7 +19,7 @@ Para baixar e instalar o projeto você precisa ter o [node](https://nodejs.org/e
 $ git clone https://github.com/Aeethon/Project-Bot
 
 # Entre na pasta baixada
-$ cd tutorial-discord-bot
+$ cd Project-bot
 
 # Instale as dependências
 $ npm install
